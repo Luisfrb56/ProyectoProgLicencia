@@ -4,9 +4,9 @@ import com.fran.xogadores.*;
 import usuario.GUIUsuario;
 
 /**
- * Fran y Luis
- *
- */
+ * Copyright (C) <2018>  < Luis Fernando & Francisco>
+ * <http://www.gnu.org/licenses/>
+**/
 public class ProxectoProg {
 
     /**

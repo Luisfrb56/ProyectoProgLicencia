@@ -1,4 +1,8 @@
 package com.fran.xogadores;
+/**
+ * Copyright (C) <2018>  < Luis Fernando & Francisco>
+ * <http://www.gnu.org/licenses/>
+**/
 
 import java.sql.Connection;
 import java.sql.DriverManager;

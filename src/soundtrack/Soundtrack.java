@@ -1,5 +1,8 @@
 package soundtrack;
-
+/**
+ * Copyright (C) <2018>  < Luis Fernando & Francisco>
+ * <http://www.gnu.org/licenses/>
+**/
 import java.applet.AudioClip;
 import javax.swing.JOptionPane;
 
